@@ -1,0 +1,6 @@
+{
+  "name": "GrammarGlow AI — Smart Grammar Correction Tool",
+  "description": "AI-powered grammar, spelling, and sentence-structure correction tool with real-time detection, explanations, and stylistic rewrites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
